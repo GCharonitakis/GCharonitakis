@@ -1,7 +1,7 @@
 # Georgios Charonitakis
 Senior gameplay programmer · Unity & Unreal Engine · Contract work through Guacasoft Ltd
 
-I build the gameplay systems studios get stuck on: combat and AI, progression and economy, gameplay UI, and the tools designers use to iterate. 10+ years in Unity (C#) and Unreal Engine 4/5 (C++, Blueprints), embedded in teams of 5–10.
+I build the gameplay systems studios get stuck on: combat and AI, progression and economy, gameplay UI, and the tools designers use to iterate. 10+ years in Unity (C#) and Unreal Engine 4/5 (Blueprints), embedded in teams of 5–10.
 
 ## Recent work
 - **Destiny's Divide** (Fobia, Unreal): free-to-play card game in Steam Early Access. Hero abilities, ranked ladder, seasonal rewards, crafting economy, deckbuilding UI, balance tools.
