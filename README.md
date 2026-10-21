@@ -1,5 +1,5 @@
 # Georgios Charonitakis
-Senior gameplay programmer · Unity & Unreal Engine · Contract work through Guacasoft Ltd
+Senior gameplay developer · Unity & Unreal Engine · Contract work through Guacasoft Ltd
 
 I build the gameplay systems studios get stuck on: combat and AI, progression and economy, player and vehicle controls, unit commands, placement and building systems, gameplay UI, and the tools designers use to iterate. 10+ years in Unity (C#) and Unreal Engine 4/5 (Blueprints), embedded in teams of 5–10.
 
