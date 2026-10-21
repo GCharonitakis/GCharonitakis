@@ -7,7 +7,7 @@ I build the gameplay systems studios get stuck on: combat and AI, progression an
 - **Destiny's Divide** (Fobia, Unreal): free-to-play card game in Steam Early Access. Hero abilities, ranked ladder, seasonal rewards, crafting economy, deckbuilding UI, balance tools.
 - **MERCS INC** (Chicken Feet Digital, Unreal): squad tactics AI, progression, in-game economy, procedural generation tools. Upcoming on Steam.
 - **DispoZone: Waste Wars** (TroppoSoft, Unreal Blueprints): PC prototype. All gameplay mechanics, including player movement, weapons, unit AI and commands, and the in-game economy.
-- **Expansion Beyond** (Expansion Games, Unity): live on iOS. Crafting and base building, creature combat/AI, live-content tools.
+- **Expansion Beyond** (Expansion Games, Unity): live on iOS. As the only Unity developer in a 5–10 person team: crafting and base building, creature combat/AI, live-content tools.
 
 Most of my work is for studios, so the code isn't public. The portfolio shows the projects.
 
