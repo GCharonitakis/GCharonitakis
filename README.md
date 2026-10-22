@@ -14,6 +14,6 @@ Most of my work is for studios, so the code isn't public. The portfolio shows th
 ## Work with me
 Available for new contract work, European time zone, 20+ hours a week now.
 
-[Portfolio](https://gcharonitakis.github.io) · [Upwork](https://www.upwork.com/freelancers/~01bbd0fe09ebf28932) · [LinkedIn](https://www.linkedin.com/in/georgios-charonitakis-a08059303/)
+[Portfolio](https://gcharonitakis.github.io) · [Upwork](https://www.upwork.com/freelancers/~01bbd0fe09ebf28932) · [LinkedIn](https://www.linkedin.com/in/georgios-charonitakis/)
 
 Email: charonitakis.giorgos@gmail.com
